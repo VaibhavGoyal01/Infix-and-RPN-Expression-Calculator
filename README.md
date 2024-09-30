@@ -98,6 +98,3 @@ The program exits with appropriate error messages for:
 - `^` : Exponentiation
 - `_` : Unary minus (used internally for negative numbers)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
